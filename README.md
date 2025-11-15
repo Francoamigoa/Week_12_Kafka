@@ -95,7 +95,7 @@ Displays real-time KPIs and charts:
 
 ## 🚀 6. How to Run the System
 
-### **Start Kafka & Zookeeper**
+### **Start Kafka**
 ```bash
 docker compose up -d
 ```
