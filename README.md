@@ -19,9 +19,10 @@ Each event represents a patient's interaction with the emergency department work
 - Insurance type
 - Timestamp of arrival
 
-The dashboard updates every few seconds to visualize current hospital load and operational metrics.
+The **dashboard updates every few seconds** to visualize current hospital load and operational metrics.
 
-<img width="800" height="376" alt="image" src="https://github.com/user-attachments/assets/1db3b41a-7ee0-453c-908f-357b8571e049" />
+![ezgif-73782fc49bb9e8ad](https://github.com/user-attachments/assets/5302d709-2e0a-46c4-a303-e85d65762682)
+
 
 ---
 
